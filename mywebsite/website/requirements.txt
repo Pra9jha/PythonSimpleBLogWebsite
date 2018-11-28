@@ -1,0 +1,15 @@
+Click==7.0
+coverage==4.5.1
+css==0.1
+css-class-names==0.0.1
+css-classes==1.1
+css-html-js-minify==2.5.5
+Django==2.1.3
+django-crispy-forms==1.7.2
+mysql==0.0.2
+mysqlclient==1.3.13
+Pillow==5.3.0
+pyparsing==2.3.0
+pytz==2018.7
+svgwrite==1.2.0
+Tree==0.2.4
